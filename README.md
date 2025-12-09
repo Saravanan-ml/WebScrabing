@@ -58,14 +58,10 @@ The scraped data is saved in CSV format and can be used for dashboards, analysis
  **Data Processing:** Pandas  
  **Driver Management:** webdriver-manager  
 
-Future Enhancements
+## 🔄 Future Enhancements
 
-Multi-source cryptocurrency data scraping
-
-Real-time alerts and notifications
-
-Database integration
-
-Dashboard and cloud deployment
-
-Machine learning-based trend prediction
+*Multi-source cryptocurrency data scraping
+*Real-time alerts and notifications
+*Database integration
+*Dashboard and cloud deployment
+*Machine learning-based trend prediction
