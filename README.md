@@ -69,3 +69,11 @@ The scraped data is saved in CSV format and can be used for dashboards, analysis
 *Dashboard and cloud deployment
 
 *Machine learning-based trend prediction
+
+## 🔄Output Images
+
+<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/e6d9d20a-eeb5-4556-aee4-50dae28e53c1" />
+<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/efb74ace-6f79-41e0-ba12-8e845a6d895e" />
+<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/e92ba855-b0b3-4f41-89ef-aeaf2f8ffa5a" />
+
+
