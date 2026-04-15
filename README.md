@@ -10,10 +10,10 @@ The **Cryptocurrency Price Tracker** is designed to eliminate manual monitoring 
 Since CoinMarketCap uses **JavaScript-rendered content**, the project uses **Selenium** to dynamically load pages and extract accurate real-time data.
 
 The system collects:
- Cryptocurrency name  
- Current price  
- 24-hour price change  
- Market capitalization  
+ *Cryptocurrency name  
+ *Current price  
+ *24-hour price change  
+ *Market capitalization  
 
 The scraped data is saved in CSV format and can be used for dashboards, analysis, and reports.
 
